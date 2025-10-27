@@ -22,7 +22,3 @@ COLOR RULES:
 - Green (🟢): Δ ≥ +0.01 → meaningful improvement
 - Yellow (🟡): |Δ| ≤ 0.005 → within leaderboard noise
 - Red (🔴): Δ ≤ −0.005 → regression
-
-TIP:
-- Duplicate the sheet daily to preserve a snapshot.
-- Keep only ONE variable change per axis to avoid confounds.
